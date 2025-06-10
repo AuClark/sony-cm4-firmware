@@ -1,2 +1,0 @@
-This is a dummy firmware update for version 0.1.0.
-It contains essential test data.
