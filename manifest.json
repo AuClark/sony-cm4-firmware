@@ -1,9 +1,9 @@
 {
-  "latest_version": "v0.9.6",
-  "download_url": "https://github.com/AuClark/sony-cm4-firmware/releases/download/v0.9.6/sony-cm4-v0.9.6.rauc",
-  "download_size_bytes": 187468433,
-  "sha256_checksum": "6d5ebbea2490d4202d4536140655e32522f86bb2578123957795e6cbd207fcd7",
-  "release_notes_url": "https://github.com/AuClark/sony-cm4-firmware/releases/tag/v0.9.6",
+  "latest_version": "v0.9.7",
+  "download_url": "https://github.com/AuClark/sony-cm4-firmware/releases/download/v0.9.7/sony-cm4-v0.9.7.rauc",
+  "download_size_bytes": 187484817,
+  "sha256_checksum": "d85d16abc268999f95fd85e13a347bb94ca70e7573db6a1cea55cff115323fbf",
+  "release_notes_url": "https://github.com/AuClark/sony-cm4-firmware/releases/tag/v0.9.7",
   "minimum_version": "v0.8.0",
   "compatibility": {
     "hardware": "sony-cm4",
