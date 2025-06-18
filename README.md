@@ -4,11 +4,11 @@ This repository contains firmware releases for the Sony CM4 camera integration s
 
 ## Latest Release
 
-**v1.0.2** - Released June 18, 2025
+**v1.0.3** - Released June 18, 2025
 
-[📥 Download Latest Release](https://github.com/AuClark/sony-cm4-firmware/releases/tag/v1.0.2) | [📋 View Changelog](https://github.com/AuClark/sony-cm4-firmware/releases/tag/v1.0.2)
+[📥 Download Latest Release](https://github.com/AuClark/sony-cm4-firmware/releases/tag/v1.0.3) | [📋 View Changelog](https://github.com/AuClark/sony-cm4-firmware/releases/tag/v1.0.3)
 
-Size: 180M | SHA256: `31ade69a42cfe773...`
+Size: 180M | SHA256: `d741da00072bbbe3...`
 
 ## Automatic Updates
 
